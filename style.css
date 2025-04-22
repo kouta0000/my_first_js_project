@@ -1,0 +1,44 @@
+body {
+    background-color: #faf0e6;
+    height: 100vh;
+}
+
+.container1 {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+
+}
+.header{
+    width: 100%;
+    height: 15%;
+    background-color: #5a86ad;
+}
+.left_page{
+    width: 10%;
+    height: 85%;
+    border-style: solid;
+    border: 3px;
+    border-color: azure;
+}
+.center_page {
+    width: 60%;
+    height: 85%;
+    border-style: solid;
+    border: 3px;
+    border-color: azure;
+}
+
+.wordlist_display {
+    
+    padding: 5%;
+    background-color: #f0f0f0;
+    border-radius: 30px;
+}
+.right_page{
+    width:30%;
+    height: 85%;
+    border-style: solid;
+    border: 3px;
+    border-color: azure;
+}
